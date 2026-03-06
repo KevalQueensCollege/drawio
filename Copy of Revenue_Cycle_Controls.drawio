@@ -78,11 +78,6 @@
             <mxRectangle height="660" width="40" x="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6-3fsTYhQahu9y-EClF8-19" edge="1" parent="6-3fsTYhQahu9y-EClF8-1" source="6-3fsTYhQahu9y-EClF8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
