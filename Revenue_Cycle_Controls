@@ -30,8 +30,8 @@
         <mxCell id="NnHnfOOADshBUQENyX3C-8" parent="NnHnfOOADshBUQENyX3C-2" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;Order Details Entered Into System&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="150" width="100" x="250" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="NnHnfOOADshBUQENyX3C-9" parent="NnHnfOOADshBUQENyX3C-2" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Sales Department&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="260" x="290" as="geometry" />
+        <mxCell id="NnHnfOOADshBUQENyX3C-9" parent="NnHnfOOADshBUQENyX3C-2" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Sales Department&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="410" x="290" as="geometry" />
         </mxCell>
         <mxCell id="NnHnfOOADshBUQENyX3C-10" edge="1" parent="NnHnfOOADshBUQENyX3C-2" source="NnHnfOOADshBUQENyX3C-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="NnHnfOOADshBUQENyX3C-15" value="">
           <mxGeometry relative="1" as="geometry" />
