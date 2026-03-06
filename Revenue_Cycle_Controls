@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15" version="29.6.1">
   <diagram name="Page-1" id="yr0TATYV-8XFkCxhZBmr">
-    <mxGraphModel dx="1887" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1029" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UBUFrTj4t9YInuYBrYmx-14" edge="1" parent="1" source="UBUFrTj4t9YInuYBrYmx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UBUFrTj4t9YInuYBrYmx-8" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;fontSize=18;fontColor=light-dark(#0061ff, #ededed);" value="Kissena Bakery - Revenue Cycle (Order-to-Cash)" vertex="1">
+          <mxGeometry height="660" width="470" x="30" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UBUFrTj4t9YInuYBrYmx-9" parent="UBUFrTj4t9YInuYBrYmx-8" style="swimlane;startSize=20;fontSize=10;fontColor=light-dark(#e32400, #ededed);" value="SALES Department" vertex="1">
+          <mxGeometry height="660" width="110" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UBUFrTj4t9YInuYBrYmx-10" parent="UBUFrTj4t9YInuYBrYmx-8" style="swimlane;startSize=20;fontSize=10;" value="Warehouse Department" vertex="1">
+          <mxGeometry height="660" width="120" x="130" as="geometry">
+            <mxRectangle height="660" width="40" x="140" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UBUFrTj4t9YInuYBrYmx-13" edge="1" parent="UBUFrTj4t9YInuYBrYmx-8" source="UBUFrTj4t9YInuYBrYmx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.082;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" target="UBUFrTj4t9YInuYBrYmx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBUFrTj4t9YInuYBrYmx-11" parent="UBUFrTj4t9YInuYBrYmx-8" style="swimlane;startSize=20;" value="Billing / Accounts Receivable" vertex="1">
+          <mxGeometry height="660" width="220" x="250" as="geometry">
+            <mxRectangle height="660" width="40" x="260" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
