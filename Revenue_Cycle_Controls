@@ -4,11 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UBUFrTj4t9YInuYBrYmx-14" edge="1" parent="1" source="UBUFrTj4t9YInuYBrYmx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UBUFrTj4t9YInuYBrYmx-8" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;fontSize=18;fontColor=light-dark(#FF00FF,#EDEDED);" value="Kissena Bakery - Revenue Cycle (Order-to-Cash)" vertex="1">
           <mxGeometry height="660" width="470" x="30" y="50" as="geometry" />
         </mxCell>
@@ -17,6 +12,15 @@
         </mxCell>
         <mxCell id="UBUFrTj4t9YInuYBrYmx-15" parent="UBUFrTj4t9YInuYBrYmx-9" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;labelBorderColor=light-dark(#001e57, #ededed);fontStyle=1;labelBackgroundColor=light-dark(#FFFFFF,#EDEDED);" value="&lt;span style=&quot;line-height: 110%; color: light-dark(rgb(119, 187, 65), rgb(237, 237, 237));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;START&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="5" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UBUFrTj4t9YInuYBrYmx-16" parent="UBUFrTj4t9YInuYBrYmx-9" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;span style=&quot;color: rgb(102, 255, 255);&quot;&gt;Customer Places Order&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="5" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UBUFrTj4t9YInuYBrYmx-18" edge="1" parent="UBUFrTj4t9YInuYBrYmx-9" source="UBUFrTj4t9YInuYBrYmx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UBUFrTj4t9YInuYBrYmx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBUFrTj4t9YInuYBrYmx-20" edge="1" parent="UBUFrTj4t9YInuYBrYmx-9" source="UBUFrTj4t9YInuYBrYmx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UBUFrTj4t9YInuYBrYmx-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UBUFrTj4t9YInuYBrYmx-10" parent="UBUFrTj4t9YInuYBrYmx-8" style="swimlane;startSize=20;fontSize=10;fontColor=#663300;" value="Warehouse Department" vertex="1">
           <mxGeometry height="660" width="120" x="130" as="geometry">
