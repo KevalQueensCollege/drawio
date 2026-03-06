@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15" version="29.6.1">
   <diagram name="Page-1" id="avS8OsLnDZ8Ht0el9Vlh">
-    <mxGraphModel dx="1583" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1029" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-052PwmHkhJuXOpIWQYP-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;fontSize=18;fontColor=light-dark(#FF00FF,#EDEDED);" value="Kissena Bakery - Revenue Cycle (Order-to-Cash)" vertex="1">
-          <mxGeometry height="990" width="515" x="40" y="20" as="geometry" />
+          <mxGeometry height="990" width="580" x="40" y="20" as="geometry" />
         </mxCell>
         <mxCell id="-052PwmHkhJuXOpIWQYP-2" parent="-052PwmHkhJuXOpIWQYP-1" style="swimlane;startSize=20;fontSize=10;fontColor=light-dark(#e32400, #ededed);" value="SALES Department" vertex="1">
           <mxGeometry height="990" width="110" x="20" as="geometry" />
@@ -69,7 +69,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-052PwmHkhJuXOpIWQYP-21" parent="-052PwmHkhJuXOpIWQYP-1" style="swimlane;startSize=20;fontColor=light-dark(#009900,#323200);" value="Billing / Account Receivable " vertex="1">
-          <mxGeometry height="990" width="220" x="295" as="geometry">
+          <mxGeometry height="990" width="285" x="295" as="geometry">
             <mxRectangle height="660" width="40" x="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
