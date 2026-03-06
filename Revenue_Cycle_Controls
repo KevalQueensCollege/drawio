@@ -88,8 +88,8 @@
         <mxCell id="jzKd3Uy4D4uaKRpJy6sg-11" parent="NnHnfOOADshBUQENyX3C-1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;gradientColor=#97d077;" value="Yes- In Stock" vertex="1">
           <mxGeometry height="100" width="80" x="280" y="465" as="geometry" />
         </mxCell>
-        <mxCell id="jzKd3Uy4D4uaKRpJy6sg-13" parent="NnHnfOOADshBUQENyX3C-1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;direction=south;gradientColor=#ffd966;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;NO- out of Stock&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="60" x="160" y="645" as="geometry" />
+        <mxCell id="jzKd3Uy4D4uaKRpJy6sg-13" parent="NnHnfOOADshBUQENyX3C-1" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;direction=south;gradientColor=#ffd966;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;NO- out of Stock&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="120" y="645" as="geometry" />
         </mxCell>
         <mxCell id="jzKd3Uy4D4uaKRpJy6sg-15" parent="NnHnfOOADshBUQENyX3C-1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" value="&lt;b style=&quot;color: rgb(153, 0, 77);&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Escalate to Manager - Back ORDER or Cancel&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="140" width="170" x="110" y="725" as="geometry" />
