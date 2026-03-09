@@ -66,6 +66,9 @@
         <mxCell id="L-BWpv7wXZXeTI6ojYgy-33" parent="L-BWpv7wXZXeTI6ojYgy-2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Sales Order Authorized % Released to Warehouse&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="1040" y="45" as="geometry" />
         </mxCell>
+        <mxCell id="pKDgXpXRNUdBzCWlZ18b-1" parent="L-BWpv7wXZXeTI6ojYgy-2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillStyle=dashed;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 9px;&quot;&gt;Control Activity CA-01&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 9px;&quot;&gt;Control exists to show the accounting system preventing errors, or fraud and misuse of assets.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="170" x="840" as="geometry" />
+        </mxCell>
         <mxCell id="L-BWpv7wXZXeTI6ojYgy-3" parent="L-BWpv7wXZXeTI6ojYgy-1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Warehouse Department&lt;/font&gt;" vertex="1">
           <mxGeometry height="330" width="1280" y="300" as="geometry" />
         </mxCell>
